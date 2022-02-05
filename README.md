@@ -3,10 +3,21 @@
 </div>
 
 
+
+
 - 👋 Hi, I’m @rahrsaxena
 - 👀 I’m interested in python programming, data science, and machine learning.
 - 🌱 I’m currently learning microservices development.
 - 📫 You can contact me at rahrsaxena@gmail.com
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/rahsaxena/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCxYoHmif7OLjcoMkfB1BuCg">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
 
 <!---
 rahrsaxena/rahrsaxena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
