@@ -6,9 +6,9 @@
 
 
 - 👋 Hi, I’m @rahrsaxena
-- 👀 I’m interested in python programming, data science, and machine learning.
-- 🌱 I’m currently learning microservices development.
-- 📫 You can contact me at rahrsaxena@gmail.com
+- 👀 Interests: Markdown, Microservices, Data Structures and Algorithms, MERN.
+- 🌱 Languages: C++, Java, Python.
+- 📫 You can contact me at rahrsaxena@gmail.com.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/rahsaxena/">
